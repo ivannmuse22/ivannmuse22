@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hey! I'm Iván
 
-<!--
-**ivannmuse22/ivannmuse22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Application Developer | Web Development | Software Engineering
 
-Here are some ideas to get you started:
+I'm a developer passionate about technology, software development and building useful digital solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into real projects, exploring new technologies and continuously improving my skills.
+
+---
+
+### 🚀 About Me
+
+- 🎓 Higher Technician in Multiplatform Application Development (DAM).
+- 💻 Interested in web development and desktop applications.
+- 🛠️ Building personal projects and exploring new technologies.
+- 🌱 Always learning and improving.
+- ⚽ Football, technology and travelling enthusiast.
+
+---
+
+### 🧰 Technologies & Tools
+
+**Programming & Development**
+
+`Java` `SQL` `HTML` `CSS` `JavaScript`
+
+**Tools**
+
+`Git` `GitHub` `Maven` `MySQL` `Swing`
+
+---
+
+### 📂 Featured Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| DIDDYCOM | Video game store desktop application | Java, Swing, MySQL |
+| Gym Management | Gym management application | In development |
+| Mahtuerso League | Fantasy football league platform | Web development |
+
+---
+
+### 📚 Currently
+
+Exploring web development, improving my programming skills and building projects that solve real problems.
+
+---
+
+### 📫 Let's Connect
+
+Feel free to explore my repositories and follow my journey as a developer.
+
+**Thanks for visiting my profile!** 🚀
