@@ -14,7 +14,6 @@ I enjoy turning ideas into real projects, exploring new technologies and continu
 - 💻 Interested in web development and desktop applications.
 - 🛠️ Building personal projects and exploring new technologies.
 - 🌱 Always learning and improving.
-- ⚽ Football, technology and travelling enthusiast.
 
 ---
 
