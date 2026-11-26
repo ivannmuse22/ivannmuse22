@@ -1,52 +1,38 @@
-# 👋 Hey! I'm Iván
+# Hi, I'm Iván
 
-### 💻 Application Developer | Web Development | Software Engineering
+I'm a developer in training who likes understanding how things work underneath. I finished a Higher Technician degree in Multiplatform Application Development (DAM) and I'm now studying Full Stack Development.
 
-I'm a developer passionate about technology, software development and building useful digital solutions.
+My comfort zone is the terminal. I'm specialized in **Linux, Python and SQL**, and I like building things that actually run, break, and teach me something.
 
-I enjoy turning ideas into real projects, exploring new technologies and continuously improving my skills.
-
----
-
-### 🚀 About Me
-
-- 🎓 Higher Technician in Multiplatform Application Development (DAM).
-- 💻 Interested in web development and desktop applications.
-- 🛠️ Building personal projects and exploring new technologies.
-- 🌱 Always learning and improving.
+I'm also an AI activist. I follow the field closely, I care about how it's used, and my goal is to become an AI developer myself.
 
 ---
 
-### 🧰 Technologies & Tools
+## What I work with
 
-**Programming & Development**
-
-`Java` `SQL` `HTML` `CSS` `JavaScript`
-
-**Tools**
-
-`Git` `GitHub` `Maven` `MySQL` `Swing`
+- **Languages:** Python, Java, SQL, JavaScript, HTML, CSS
+- **Systems:** Linux
+- **Databases:** MySQL
+- **Tools:** Git, GitHub, Maven, Swing
 
 ---
 
-### 📂 Featured Projects
+## Projects
 
-| Project | Description | Technologies |
-|---|---|---|
-| DIDDYCOM | Video game store desktop application | Java, Swing, MySQL |
-| Gym Management | Gym management application | In development |
-| Mahtuerso League | Fantasy football league platform | Web development |
+**DIDDYCOM** – A desktop app for a video game store, built with Java, Swing and MySQL.
 
----
+**Gym Management** – A gym management app. Still in progress.
 
-### 📚 Currently
-
-Exploring web development, improving my programming skills and building projects that solve real problems.
+**Mahtuerso League** – A web platform for a fantasy football league.
 
 ---
 
-### 📫 Let's Connect
+## Right now
 
-Feel free to explore my repositories and follow my journey as a developer.
+Learning full stack development, getting deeper into Python and databases, and working toward a career in AI.
 
-**Thanks for visiting my profile!** 🚀
+---
+
+## Contact
+
+My repositories are open, so feel free to take a look around. If something catches your eye or you want to talk tech or AI, get in touch.
